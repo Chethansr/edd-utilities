@@ -1,0 +1,24 @@
+{
+  "name": "edd-utilities",
+  "version": "1.0.0",
+  "description": "utilities for ship/edd",
+  "main": "edd_csv.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chethansr/edd-utilities.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chethansr/edd-utilities/issues"
+  },
+  "homepage": "https://github.com/Chethansr/edd-utilities#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "node-fetch": "^3.2.10"
+  }
+}

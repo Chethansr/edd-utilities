@@ -1,0 +1,51 @@
+MSA Name,Recipient Zip Code,Unique Shipments,Avg EAD Days (NarVar+RGG Buffer)
+"New York-Northern New Jersey-Long Island, NY-NJ-PA MSA",11235,274,7
+"New York-Northern New Jersey-Long Island, NY-NJ-PA MSA",10016,185,7.1
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",33160,119,7
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",33131,106,7.1
+"Chicago-Naperville-Joliet, IL-IN-WI MSA",60611,109,5.8
+"Chicago-Naperville-Joliet, IL-IN-WI MSA",60614,105,5.5
+"Houston-Sugar Land-Baytown, TX MSA",77024,94,7.2
+"Houston-Sugar Land-Baytown, TX MSA",77019,66,7.3
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",20854,89,8.3
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",20815,62,8.4
+"Bridgeport-Stamford-Norwalk, CT MSA",06840,74,6.6
+"Bridgeport-Stamford-Norwalk, CT MSA",06880,74,7.3
+"Atlanta-Sandy Springs-Marietta, GA MSA",30327,81,7
+"Atlanta-Sandy Springs-Marietta, GA MSA",30305,61,6.9
+"Dallas-Fort Worth-Arlington, TX MSA",75205,66,6.6
+"Dallas-Fort Worth-Arlington, TX MSA",75225,57,7
+"Boston-Cambridge-Quincy, MA-NH MSA",02459,59,7.3
+"Boston-Cambridge-Quincy, MA-NH MSA",02481,55,7.1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",19103,50,8
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",19006,48,8
+"Nashville-Davidson-Murfreesboro-Franklin, TN MSA",37215,56,6.7
+"Nashville-Davidson-Murfreesboro-Franklin, TN MSA",37205,41,6.8
+"Baltimore-Towson, MD MSA",21117,60,8.3
+"Baltimore-Towson, MD MSA",21136,33,8
+"Orlando-Kissimmee, FL MSA",34786,46,7.1
+"Orlando-Kissimmee, FL MSA",32746,39,7.1
+"Charlotte-Gastonia-Concord, NC-SC MSA",28277,42,7.2
+"Charlotte-Gastonia-Concord, NC-SC MSA",28211,38,6.4
+"Tampa-St. Petersburg-Clearwater, FL",33629,43,6.6
+"Tampa-St. Petersburg-Clearwater, FL",33611,34,6.8
+"Detroit-Warren-Livonia, MI MSA",48009,42,6.9
+"Detroit-Warren-Livonia, MI MSA",48230,34,7.4
+"Los Angeles-Long Beach-Santa Ana, CA MSA",90272,39,9.7
+"Los Angeles-Long Beach-Santa Ana, CA MSA",90049,30,9.8
+"New Orleans-Metairie-Kenner, LA MSA",70115,34,6.6
+"New Orleans-Metairie-Kenner, LA MSA",70005,32,7.1
+"Austin-Round Rock, TX MSA",78746,31,7.1
+"Austin-Round Rock, TX MSA",78703,30,6.9
+"San Diego-Carlsbad-San Marcos, CA MSA",92037,37,9.7
+"San Diego-Carlsbad-San Marcos, CA MSA",92130,23,9.7
+"Providence-New Bedford-Fall River, RI-MA MSA",02840,31,7
+"Providence-New Bedford-Fall River, RI-MA MSA",02818,28,6.7
+"San Francisco-Oakland-Fremont, CA MSA",94010,35,9.7
+"San Francisco-Oakland-Fremont, CA MSA",94109,23,10
+"St. Louis, MO-IL MSA",63141,27,7.5
+"St. Louis, MO-IL MSA",63105,26,7.3
+"Minneapolis-St. Paul-Bloomington, MN-WI MSA",55347,25,6.9
+"Minneapolis-St. Paul-Bloomington, MN-WI MSA",55416,21,7.4
+"Pittsburgh, PA MSA",15217,21,5.8
+"Pittsburgh, PA MSA",15044,17,6.8
